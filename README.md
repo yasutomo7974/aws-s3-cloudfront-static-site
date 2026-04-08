@@ -4,7 +4,7 @@
 Amazon S3 と CloudFront を使用した静的ウェブサイトのホスティング構成です。
 
 ## アーキテクチャ
-![構成図](img/aws-s3-cloudfront2.png)
+![構成図](aws-s3-cloudfront2.png)
 
 ## 使用サービス
 - Amazon S3（静的ファイルの保存）
